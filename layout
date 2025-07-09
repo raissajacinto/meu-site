@@ -1,0 +1,182 @@
+<!-- (c) Layout created by ryan 0_~ ★ (https://layouts.spacehey.com/layout?id=24536) -->
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+p{
+    color: white;
+    text-align: center;
+    font-family: 'pt mono';
+}
+h1,h2,h3,h4,h5 {
+    color: white;
+    text-align: center;
+    font-family: 'press start 2p';
+    font-size: 10px;
+}
+body {
+    background: url(https://i.pinimg.com/originals/b6/cd/09/b6cd095b544fceabb377fa28a9b4eb53.jpg);
+}
+main {
+    background: none;
+}
+.general-about {
+    border: double #FF6BBF 4px;
+    padding: 10px;
+    height: 217px;
+    background: (0,0,0,30%);
+}
+.general-about .profile-pic img {
+     border: solid #FF6BBF 3px;
+}
+.contact .inner {
+    border: double #FF6BBF 4px;
+    background: (0,0,0,30%);
+}
+:root {
+    --logo-blue: ;
+    --darker-blue: white;
+    --lighter-blue: ;
+    --even-lighter-blue: ;
+    --lightest-blue: ;
+    --dark-orange: white;
+    --light-orange: ;
+    --even-lighter-orange: ;
+    --green: ;
+}
+.mood {
+    margin-top: 10px;
+    margin-bottom: 3px;
+    border: double #FF6BBF 4px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background: (0,0,0,30%);
+}
+.profile .left .table-section .inner {
+    border: double #FF6BBF 4px;
+    padding-left: 7px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background: (0,0,0,30%);
+}
+.blog-preview {
+    margin-top: 32px;
+}
+.blurbs .inner {
+    border: double #FF6BBF 4px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background: (0,0,0,30%);
+}
+.friends .inner {
+    border: double #FF6BBF 4px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    background: (0,0,0,30%);
+}
+table.comments-table{
+    display: block;
+    height: 250px!important;
+    overflow-y: scroll;
+}
+.url-info {
+    border: var(--borders)!important;
+    background: (0,0,0,30%);
+}
+:root {
+    --borders: double #FF6BBF 4px;
+    background: (0,0,0,30%);
+}
+nav .links {
+    border: var(--borders);
+    text-align: center;
+    font-size: 11px;
+    font-family: 'pt mono';
+    background: (0,0,0,30%);
+}
+.top {
+    border: var(--borders);
+    margin-bottom: 10px;
+    font-family: 'pt mono';
+    background: (0,0,0,30%);
+}
+.profile h1 {
+    text-align: center;
+}
+/* contact icons */
+.contact .inner a img {
+font-size: 0;
+}
+.contact .inner a img:before {
+font-size: 1em;
+display: block
+}
+.contact .inner .f-row:nth-child(1) .f-col:nth-child(1) a:before {
+/* add to friends */
+content: "☆"
+}
+.contact .inner .f-row:nth-child(1) .f-col:nth-child(2) a:before {
+/* add to favorite */
+content: "☆"
+}
+.contact .inner .f-row:nth-child(2) .f-col:nth-child(1) a:before {
+/* send a message */
+content: "★"
+}
+.contact .inner .f-row:nth-child(2) .f-col:nth-child(2) a:before {
+/* foward to friend*/
+content: "★"
+}
+.contact .inner .f-row:nth-child(3) .f-col:nth-child(1) a:before {
+/* instant message */
+content: "☆"
+}
+.contact .inner .f-row:nth-child(3) .f-col:nth-child(2) a:before {
+/* block user */
+content: "☆"
+}
+.contact .inner .f-row:nth-child(4) .f-col:nth-child(1) a:before {
+/* add 2 group  */
+content: "★"
+}
+.contact .inner .f-row:nth-child(4) .f-col:nth-child(2) a:before {
+/* report */
+content: "★"
+}
+footer{
+    border: var(--borders);
+    font-size: 15px;
+    background: none;
+}
+.friends .person img {
+    border: solid #FF6BBF;
+}
+.profile .friends .person p {
+    color: white;
+    font-weight: normal;
+}
+.comments-table td img {
+    border: solid #FF6BBF;
+}
+.comments-table td p {
+    font-weight: normal;
+}
+.count {
+    color: #FF6BBF;
+}
+button, input, optgroup, select, textarea {
+    font-family: 'pt mono';
+    font-size: 10px;
+    line-height: 1.15;
+    margin: 0;
+    background: #000000;
+    border: #FF6BBF double 3px;
+    color: white;
+}
+</style>
+<style>
+
+body { cursor: url(https://i.imgur.com/n1OKJev.png), default; }
+
+</style>
